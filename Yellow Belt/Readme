@@ -1,0 +1,54 @@
+# Six Sigma Yellow Belt Project: Optimizing Appointment Scheduling
+
+This project outlines a Six Sigma Yellow Belt project aimed at improving the appointment scheduling process within a healthcare clinic. The goal is to reduce the number of unfilled appointment slots and increase revenue by analyzing cancellation patterns and optimizing double-booking strategies.
+
+## Project Overview
+
+The project follows the DMAIC (Define, Measure, Analyze, Improve, Control) methodology to address the problem of unfilled appointment slots, which leads to lost revenue and potential impacts on patient care.
+
+### Define Phase
+
+* **Problem Statement:** The clinic experiences an average of 15% of appointment slots going unfilled per week, resulting in an estimated \$5,000 in lost weekly revenue.
+* **Business Case:** Optimizing appointment scheduling is crucial for maximizing revenue, improving patient access, and enhancing patient satisfaction.
+* **Goal Statement:** The project aims to reduce unfilled appointment slots by 50% and increase weekly revenue by \$2,500 within 12 weeks.
+* **Project Scope:** The project focuses on the appointment scheduling process, from the patient's initial request to the appointment occurrence, including analyzing historical data, cancellation patterns, and slot utilization.
+
+### Measure Phase
+
+* A data collection plan has been developed to track key metrics such as appointment slot status, cancellation time, cancellation lead time, and patient no-show status.
+
+### Analyze Phase
+
+* The project involves creating a process map of the current appointment scheduling process to identify areas for improvement.
+* Formulating null and alternative hypotheses to be tested with the collected data. For example:
+    * H0: The proportion of unfilled appointment slots will not decrease after implementing the new scheduling process.
+    * Ha: The proportion of unfilled appointment slots will decrease after implementing the new scheduling process.
+
+### Improve Phase
+
+* This phase will involve developing and implementing strategies to reduce unfilled slots, such as a predictive model for cancellations and an optimized double-booking protocol.
+
+### Control Phase
+
+* _(Note: The Control phase is stated as being beyond the scope of the Yellow Belt Capstone)_
+
+## Project Deliverables
+
+The project deliverables include:
+
+1.  Project Charter
+2.  Team Charter
+3.  Data Collection Plan
+4.  Process Map
+5.  Hypotheses
+6.  Reflection on lessons learned from Yellow Belt training and the capstone project
+
+## Key Insights
+
+* The project emphasizes data-driven decision-making to improve process efficiency and effectiveness.
+* Effective team collaboration and stakeholder engagement are crucial for successful implementation.
+* The DMAIC methodology provides a structured framework for process improvement.
+
+## Further Information
+
+For more detailed information, please refer to the attached project documents.
