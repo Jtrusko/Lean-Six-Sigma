@@ -1,0 +1,64 @@
+# Six Sigma Green Belt Capstone Project: Optimizing Appointment Scheduling
+
+This repository contains the documentation for a Six Sigma Green Belt capstone project focused on optimizing appointment scheduling within a clinic to reduce unfilled slots and maximize revenue. The project utilizes the DMAIC (Define, Measure, Analyze, Improve, Control) methodology.
+
+## Project Overview
+
+The project aims to address the issue of unfilled appointment slots, which leads to revenue loss and impacts patient access to care. By analyzing the current scheduling process and implementing targeted improvements, the project seeks to increase efficiency, reduce waste, and enhance the overall patient experience.
+
+## Contents
+
+This repository includes the following documents:
+
+1.  **Project Charter:** Defines the project scope, objectives, team, and timeline.
+2.  **Team Charter:** Outlines team roles, responsibilities, and operating guidelines.
+3.  **Data Collection Plan:** Details the data to be collected, measurement methods, and data types.
+4.  **Process Map:** Visual representation of the current appointment scheduling process.
+5.  **Hypotheses:** Null and alternative hypotheses related to key project metrics.
+6.  **Data Analysis:** Analysis of collected data using statistical methods and tools.
+7.  **List of Possible Improvements:** Identified potential solutions to address the project's problem.
+8.  **Control Plan:** Plan for monitoring and sustaining the implemented improvements.
+9.  **Reflection:** Personal reflection on the lessons learned from the Green Belt training and the capstone project.
+
+## DMAIC Phases
+
+The project follows the DMAIC methodology:
+
+* **Define:** The problem of unfilled appointment slots is clearly defined, and project goals are established.
+* **Measure:** Data is collected on key metrics such as unfilled slot rate, cancellation lead time, and no-show rate.
+* **Analyze:** The collected data is analyzed to identify root causes and contributing factors to the problem.
+* **Improve:** Potential improvements are identified and evaluated, and a solution (automated appointment reminders) is selected for implementation.
+* **Control:** A control plan is developed to ensure the sustainability of the implemented solution and prevent process regression.
+
+## Key Improvement
+
+The primary improvement implemented in this project is an automated appointment reminder system. This solution aims to reduce short-notice cancellations by providing timely reminders to patients.
+
+## Technologies/Tools Used
+
+* EHR System (for data extraction)
+* Statistical Software (for data analysis - specify if you used a particular one)
+* Process Mapping Software (specify if you used a particular one)
+* Spreadsheet Software (for data management)
+
+## Author
+
+[Your Name]
+
+## License
+
+[Choose a license if applicable - e.g., MIT License]
+
+## Acknowledgements
+
+[Acknowledge any individuals or organizations that provided support for the project]
+
+---
+
+**Important Notes for Customization:**
+
+* **Replace Placeholders:** Make sure to replace the bracketed placeholders (e.g., `[Your Name]`, `[Choose a license]`) with your actual information.
+* **Specific Software:** If you used specific software for statistical analysis or process mapping, mention it explicitly (e.g., "Minitab," "Visio").
+* **Detailed Analysis:** You could add a brief summary of the key findings from your data analysis in the README.
+* **Visuals:** If you have any relevant diagrams or charts, consider including them in the README (if possible) or linking to them.
+* **Contribution:** If you want to encourage contributions or have specific guidelines for contributing, add a "Contributing" section.
